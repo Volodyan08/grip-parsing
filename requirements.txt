@@ -1,0 +1,11 @@
+pygrib
+numpy
+matplotlib
+shapely
+geopandas
+scipy
+matplotlib
+datetime
+psycopg2
+python-dotenv
+requests
